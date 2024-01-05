@@ -65,9 +65,9 @@ aws sts get-caller-identity
 You should see something like this:
 ```json
 {
-    "UserId": "AIFBZRJIQN2ONP4ET4EK4",
-    "Account": "655602346534",
-    "Arn": "arn:aws:iam::655602346534:user/andrewcloudcamp"
+    "UserId": "",
+    "Account": "",
+    "Arn": ""
 }
 ```
 
@@ -135,3 +135,7 @@ aws budgets create-budget \
     --budget file://aws/json/budget.json \
     --notifications-with-subscribers file://aws/json/budget-notifications-with-subscribers.json
 ```
+
+## AWS logical diagram
+
+[aws logical diagram](https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html)
