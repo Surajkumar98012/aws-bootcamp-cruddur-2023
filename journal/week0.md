@@ -138,4 +138,4 @@ aws budgets create-budget \
 
 ## AWS logical diagram
 
-[aws logical diagram](https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html](https://lucid.app/lucidchart/19fa0077-0c96-447e-8726-a68a7ee225b7/edit?invitationId=inv_8995a157-5efb-411d-9190-ed75effbf1a1)https://lucid.app/lucidchart/19fa0077-0c96-447e-8726-a68a7ee225b7/edit?invitationId=inv_8995a157-5efb-411d-9190-ed75effbf1a1)
+[aws logical diagram](https://lucid.app/lucidchart/19fa0077-0c96-447e-8726-a68a7ee225b7/edit?invitationId=inv_8995a157-5efb-411d-9190-ed75effbf1a1)
